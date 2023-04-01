@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week5</string>
+
+    <string name="text2">This API will allow you to see a picture taken by Nasa.</string>
+    <string name="text3">Press Here to Continue</string>
+    <string name="text4">Start</string>
+    <string name="text5">Title</string>
+    <string name="text6">Date</string>
+
+</resources>
