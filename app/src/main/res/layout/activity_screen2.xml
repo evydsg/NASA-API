@@ -35,13 +35,13 @@
 
     <TextView
         android:id="@+id/datenasa"
-        android:layout_width="242dp"
-        android:layout_height="25dp"
+        android:layout_width="252dp"
+        android:layout_height="61dp"
         android:layout_marginBottom="128dp"
         android:text="@string/text6"
         android:textAlignment="center"
         android:textColor="@color/white"
-        android:textSize="20dp"
+        android:textSize="30dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -50,8 +50,8 @@
 
     <TextView
         android:id="@+id/titlenasa"
-        android:layout_width="242dp"
-        android:layout_height="25dp"
+        android:layout_width="238dp"
+        android:layout_height="60dp"
         android:layout_marginBottom="128dp"
         android:text="@string/text5"
         android:textAlignment="center"

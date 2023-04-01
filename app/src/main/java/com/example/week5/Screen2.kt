@@ -34,10 +34,10 @@ class Screen2 : AppCompatActivity() {
 
         val button = findViewById<Button>(R.id.button)
         val imageView = findViewById<ImageView>(R.id.NasaPicture)
-        val textView = findViewById<TextView>(R.id.datenasa)
-        val textView1 = findViewById<TextView>(R.id.titlenasa)
+        val dateView = findViewById<TextView>(R.id.datenasa)
+        val titleView= findViewById<TextView>(R.id.titlenasa)
 
-        getNextImage(button,imageView, textView)
+        getNextImage(button,imageView, dateView,titleView)
     }
 
     @GlideModule
@@ -71,11 +71,12 @@ class Screen2 : AppCompatActivity() {
         }]
     }
 
-    private fun getNextImage(button: Button, imageView: ImageView,textView: TextView) {
+    private fun getNextImage(button: Button, imageView: ImageView,dateView: TextView,titleView: TextView) {
         button.setOnClickListener {
 
             getNasaPictureURL()
-
+            titleView.text=titleURL
+            dateView.text=dateURL
 
             Glide.with(this)
                 . load(NasaPictureURL)
