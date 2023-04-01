@@ -3,7 +3,7 @@
 
 Submitted by: Evelise Guenda
 
-Time spent: 24 hours spent in total
+Time spent: 26 hours spent in total
 
 ## Summary
 
@@ -37,7 +37,9 @@ My chosen API for this project is NASA API
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWMxMTE5OTMwZDc0NjJiYTFlOGU2MTI4MTAzZTAzZDIyNTM4MWYzZiZjdD1n/2VmyOwzM0Y4cgZWliB/giphy.gif
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FmOWUxNzUyM2E0OWMwZmI1ZjU0NmNlZThiOTdjZTY3ZjNmYmUyZCZjdD1n/2BMNNFs1heQIsgb355/giphy.gif
+
+https://imgur.com/gallery/xdwW8Ep
 
 GIF created with GIPHY
 
